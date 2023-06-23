@@ -15,7 +15,7 @@ import { Modal } from '@k90891695/modalnpm'
 ## Parameters
 * setIsOpen: Prop function
 * color: Prop string
-* information: Prop string
+* title: Prop string
 * commentary: Prop string
 * action: Prop string
 
